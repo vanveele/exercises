@@ -1,0 +1,155 @@
+MakeMKV v1.10.7 linux(x64-release) started
+The new version 1.10.8 is available for download at http://www.makemkv.com/download/
+Using direct disc access mode
+Title #1 has length of 2 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #2 has length of 2 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Cells 31-end were skipped due to cell commands (structure protection?)
+Complex multiplex encountered - 8 cells and 384 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Title #3 was added (21 cell(s), 0:37:02)
+Complex multiplex encountered - 8 cells and 388 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Angle #2 was added for title #3
+Cells 32-end were skipped due to cell commands (structure protection?)
+Cells 31-end were skipped due to cell commands (structure protection?)
+Complex multiplex encountered - 8 cells and 384 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Title #4 was added (21 cell(s), 0:37:02)
+Complex multiplex encountered - 8 cells and 388 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Angle #2 was added for title #4
+Cells 32-end were skipped due to cell commands (structure protection?)
+Cells 31-end were skipped due to cell commands (structure protection?)
+Complex multiplex encountered - 8 cells and 384 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Title #5 was added (21 cell(s), 0:37:02)
+Complex multiplex encountered - 8 cells and 388 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Angle #2 was added for title #5
+Cells 32-end were skipped due to cell commands (structure protection?)
+Title #6 was added (1 cell(s), 0:03:03)
+Angle #2 was added for title #6
+Title #6/0/1 has length of 3 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/3 has length of 26 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/4 has length of 11 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/6 was added (1 cell(s), 0:02:21)
+Angle #2 was added for title #6/0/6
+Title #6/0/7 has length of 4 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/9 was added (1 cell(s), 0:02:49)
+Angle #2 was added for title #6/0/9
+Title #6/0/10 has length of 104 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/11 has length of 4 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/13 has length of 95 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/14 has length of 20 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/16 has length of 33 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/17 was added (1 cell(s), 0:04:15)
+Angle #2 was added for title #6/0/17
+Title #6/0/18 was added (1 cell(s), 0:03:34)
+Angle #2 was added for title #6/0/18
+Title #6/0/19 was added (1 cell(s), 0:03:00)
+Angle #2 was added for title #6/0/19
+Title #6/0/20 was added (1 cell(s), 0:03:31)
+Angle #2 was added for title #6/0/20
+Title #6/0/21 has length of 45 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/22 has length of 14 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/24 has length of 1 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #6/0/25 was added (9 cell(s), 0:29:08)
+Angle #2 was added for title #6/0/25
+Title #6/0/26 was added (9 cell(s), 0:29:29)
+Angle #2 was added for title #6/0/26
+Cells 26-end were skipped due to cell commands (structure protection?)
+Complex multiplex encountered - 6 cells and 212 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Title #7 was added (18 cell(s), 0:28:32)
+Complex multiplex encountered - 6 cells and 216 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Angle #2 was added for title #7
+Cells 27-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #8 was added (9 cell(s), 0:29:08)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #9 was added (9 cell(s), 0:29:29)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 26-end were skipped due to cell commands (structure protection?)
+Complex multiplex encountered - 6 cells and 212 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Title #10 was added (18 cell(s), 0:28:32)
+Complex multiplex encountered - 6 cells and 216 VOBUs have to be scanned. This may take some time, please be patient - it can't be avoided.
+Angle #2 was added for title #10
+Cells 27-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #11 was added (9 cell(s), 0:29:08)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #12 was added (9 cell(s), 0:32:39)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #13 was added (9 cell(s), 0:32:39)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Title #14 was added (9 cell(s), 0:43:56)
+Title 2 in VTS 2 is equal to title 1 and was skipped
+Title 3 in VTS 2 is equal to title 1 and was skipped
+Title 2 in VTS 2 is equal to title 1 and was skipped
+Title 3 in VTS 2 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 3 in VTS 3 is equal to title 1 and was skipped
+Title 6 in VTS 3 is equal to title 1 and was skipped
+Title 1 in VTS 3 is equal to title 1 and was skipped
+Title 4 in VTS 3 is equal to title 1 and was skipped
+Title 5 in VTS 3 is equal to title 2 and was skipped
+Title 5 in VTS 3 is equal to title 2 and was skipped
+Title 2 in VTS 4 is equal to title 1 and was skipped
+Operation successfully completed
+Saving 14 titles into directory /home/vanveele/Videos/RedDwarf_S7_1
+14 titles saved
+Using direct disc access mode
+Title #1 has length of 2 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #2 has length of 2 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #3 was added (9 cell(s), 0:33:28)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #4 was added (9 cell(s), 0:33:28)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 46-end were skipped due to cell commands (structure protection?)
+Title #5 was added (45 cell(s), 2:23:01)
+Cells 47-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #6 was added (9 cell(s), 0:29:17)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #7 was added (9 cell(s), 0:27:11)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #8 was added (9 cell(s), 0:28:49)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #9 was added (9 cell(s), 0:28:55)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 10-end were skipped due to cell commands (structure protection?)
+Title #10 was added (9 cell(s), 0:28:49)
+Cells 11-end were skipped due to cell commands (structure protection?)
+Cells 37-end were skipped due to cell commands (structure protection?)
+Title #11 was added (36 cell(s), 1:53:44)
+Cells 38-end were skipped due to cell commands (structure protection?)
+Title #12 was added (3 cell(s), 0:18:19)
+Title 2 in VTS 2 is equal to title 1 and was skipped
+Operation successfully completed
+Saving 9 titles into directory /home/vanveele/Videos/RedDwarf_S7_2
+Unable to open file '/VIDEO_TS/VTS_04_1.VOB' in OS mode due to a bug in OS Kernel. This can be worked around, but read speed may be very slow.
+9 titles saved
+Using direct disc access mode
+Title #1 has length of 2 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #2 has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #3 was added (1 cell(s), 0:04:37)
+Title #4 was added (1 cell(s), 0:02:44)
+Title #5 was added (9 cell(s), 1:28:31)
+Title #6 was added (1 cell(s), 0:05:22)
+Title #7 was added (1 cell(s), 0:02:33)
+Title #8 was added (1 cell(s), 0:03:35)
+Title #9 has length of 86 seconds which is less than minimum title length of 120 seconds and was therefore skipped
+Title #10 was added (1 cell(s), 0:07:54)
+Title #11 was added (1 cell(s), 0:05:28)
+Title #12 was added (1 cell(s), 0:10:25)
+Title #13 was added (1 cell(s), 0:20:55)
+Title #14 was added (23 cell(s), 0:43:16)
+Operation successfully completed
